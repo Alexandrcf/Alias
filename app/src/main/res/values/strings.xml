@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alias</string>
+    <string name="game">Игра</string>
+    <string name="rules">Правила</string>
+    <string name="exit">Выход</string>
+    <string name="start_game">Начать игру</string>
+    <string name="button_positive">Отгадано</string>
+    <string name="button_negative">Пропустить</string>
+    <string name="team_1">Команда 1: 0</string>
+    <string name="team_2">Команда 2: 0</string>
+    <string name="time">Время: 60 сек</string>
+
+    <string name="rulesText">Alias или "скажи иначе" - словесная развивающая командная игра, в которой игроку необходимо
+        за время объяснить, а остальной команде - отгадать, как можно больше слов. \n\n
+        За каждое правильно отгаданное слово команда получает одно очко. Команда, которая наберет наибольшее
+        количество очков - побеждает\n\n
+        При объяснении нельзя использовать однокоренные слова, использовать переводы на иностранные языки и явно
+        показывать слова жестами</string>
+</resources>
